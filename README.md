@@ -1,2 +1,5 @@
 # PalacePirate
  Mashup of various useful OSINT tools
+
+
+NOTE:CURRENTLY NOT WORKING,SEEMS TO NOT LIKE TO FIND OPENAI NOT SURE WHY
