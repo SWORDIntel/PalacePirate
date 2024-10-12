@@ -1,0 +1,5 @@
+requests
+openai
+setuptools
+git+https://github.com/aandrew-me/tgpt.git
+git+https://github.com/knadh/tg-archive.git
